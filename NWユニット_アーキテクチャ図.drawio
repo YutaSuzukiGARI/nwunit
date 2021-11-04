@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T07:38:23.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="sd5WnL5CWC1C3oo6lfyS" version="15.6.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-11-04T07:38:55.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="_B9FDIdp9EFVNA3c6S__" version="15.6.5" type="github" pages="12">
   <diagram name="RevA_NewスマNWU静的構造_" id="Em0N8ghZaZQVskF2sXky">
     <mxGraphModel dx="2530" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2321,6 +2321,9 @@
       <root>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-0" />
         <mxCell id="WA64RrP8hwPyqQoOAJvi-1" parent="WA64RrP8hwPyqQoOAJvi-0" />
+        <mxCell id="WA64RrP8hwPyqQoOAJvi-109" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;fontColor=default;" vertex="1" parent="WA64RrP8hwPyqQoOAJvi-1">
+          <mxGeometry x="1230" y="-40" width="360" height="870" as="geometry" />
+        </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=19;strokeColor=none;gradientColor=#97d077;fontColor=default;" vertex="1" parent="WA64RrP8hwPyqQoOAJvi-1">
           <mxGeometry x="520" y="830" width="1070" height="450" as="geometry" />
         </mxCell>
@@ -2659,7 +2662,7 @@
           <mxGeometry x="1420" y="840" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-89" value="Coretex R4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=26;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=default;" vertex="1" parent="WA64RrP8hwPyqQoOAJvi-1">
-          <mxGeometry x="1450" y="-25" width="150" height="40" as="geometry" />
+          <mxGeometry x="1435" y="-25" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-91" value="&lt;font style=&quot;font-size: 13px&quot;&gt;イベント&lt;br&gt;ログ登録&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontColor=#FF3333;strokeColor=#000000;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WA64RrP8hwPyqQoOAJvi-1" source="WA64RrP8hwPyqQoOAJvi-92" target="WA64RrP8hwPyqQoOAJvi-25">
           <mxGeometry x="0.2831" y="-10" relative="1" as="geometry">
@@ -2716,9 +2719,6 @@
             <mxPoint x="1090" y="407.272727272727" as="sourcePoint" />
             <mxPoint x="710" y="390" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WA64RrP8hwPyqQoOAJvi-109" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;fontColor=default;" vertex="1" parent="WA64RrP8hwPyqQoOAJvi-1">
-          <mxGeometry x="1230" y="-40" width="360" height="870" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;fontColor=default;" vertex="1" parent="WA64RrP8hwPyqQoOAJvi-1">
           <mxGeometry x="520.5" y="-40" width="709.5" height="870" as="geometry" />
