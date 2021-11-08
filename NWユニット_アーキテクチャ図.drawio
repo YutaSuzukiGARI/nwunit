@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T07:48:14.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="BRR-49mxle4bxTfP9TLP" version="15.6.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-11-08T08:17:17.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="2Ajm490rXbMwzP5c5AQx" version="15.6.5" type="github" pages="13">
   <diagram name="RevA_NewスマNWU静的構造_" id="Em0N8ghZaZQVskF2sXky">
     <mxGraphModel dx="3197" dy="1248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2735,7 +2735,7 @@
           <mxGeometry x="520" y="-40" width="710" height="870" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;fontColor=default;" vertex="1" parent="WA64RrP8hwPyqQoOAJvi-1">
-          <mxGeometry x="-290" y="-40" width="220" height="1320" as="geometry" />
+          <mxGeometry x="-290" y="-40" width="810" height="1320" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;fontColor=default;" vertex="1" parent="WA64RrP8hwPyqQoOAJvi-1">
           <mxGeometry x="-720.5" y="-40" width="430.5" height="1080" as="geometry" />
