@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T09:40:02.564Z" agent="5.0 (iPad; CPU OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/94.0.4606.76 Mobile/15E148 Safari/604.1" etag="P9FGdisWjw_Ooc7Xloht" version="15.8.6" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-11-30T10:26:30.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Yf83WN35_PmajBYLDAOp" version="15.8.7" type="github" pages="14">
   <diagram name="RevA_NewスマNWU静的構造_" id="Em0N8ghZaZQVskF2sXky">
-    <mxGraphModel dx="2350" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6xEqCN2wdvvLDfVnuzik-0" />
         <mxCell id="6xEqCN2wdvvLDfVnuzik-1" parent="6xEqCN2wdvvLDfVnuzik-0" />
@@ -2317,7 +2317,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="RevG_NewスマNWU静的構造_完全版" id="GGY5ZKee5J4tztuzEWEi">
-    <mxGraphModel dx="2391" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-0" />
         <mxCell id="WA64RrP8hwPyqQoOAJvi-1" parent="WA64RrP8hwPyqQoOAJvi-0" />
@@ -2735,7 +2735,7 @@
           <mxGeometry x="520" y="-40" width="710" height="870" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;fontColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
-          <mxGeometry x="-290" y="-40" width="360" height="1320" as="geometry" />
+          <mxGeometry x="-290" y="-40" width="810" height="1320" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;fontColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
           <mxGeometry x="-720.5" y="-40" width="430.5" height="1080" as="geometry" />
@@ -2750,7 +2750,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cgzILeS_fuFFTPQZj-yb" name="old_NXR-ILM静的構造">
-    <mxGraphModel dx="1609" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3024,7 +3024,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NXR-ILM静的構造_整理" id="8LoRBOQz0qZMT3q2NBlz">
-    <mxGraphModel dx="1944" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gRF6oFBSEXNlY3w5-Y73-0" />
         <mxCell id="gRF6oFBSEXNlY3w5-Y73-1" parent="gRF6oFBSEXNlY3w5-Y73-0" />
@@ -3358,7 +3358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T3EzVjk_y8PLlDou6U8i" name="NXR-ILMタスク分解">
-    <mxGraphModel dx="782" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xYymiAK4wkMO0A67NCln-0" />
         <mxCell id="xYymiAK4wkMO0A67NCln-1" parent="xYymiAK4wkMO0A67NCln-0" />
