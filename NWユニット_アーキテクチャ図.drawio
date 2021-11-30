@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T10:26:30.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Yf83WN35_PmajBYLDAOp" version="15.8.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-11-30T10:27:02.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="yVAnsBe9OHO9mfzRzuhF" version="15.8.7" type="github" pages="14">
   <diagram name="RevA_NewスマNWU静的構造_" id="Em0N8ghZaZQVskF2sXky">
     <mxGraphModel dx="1609" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2317,7 +2317,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="RevG_NewスマNWU静的構造_完全版" id="GGY5ZKee5J4tztuzEWEi">
-    <mxGraphModel dx="2249" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-0" />
         <mxCell id="WA64RrP8hwPyqQoOAJvi-1" parent="WA64RrP8hwPyqQoOAJvi-0" />
@@ -2709,9 +2709,6 @@
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-101" value="&lt;font style=&quot;font-size: 21px&quot;&gt;アンプ間通信セクション&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
           <mxGeometry x="-713" y="-30" width="250" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="cE08UZ1Xvqvv4ngUlUgD-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontSize=13;fontColor=default;endArrow=none;endFill=0;strokeColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" source="WA64RrP8hwPyqQoOAJvi-103" target="WA64RrP8hwPyqQoOAJvi-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-103" value="&lt;font style=&quot;font-size: 21px&quot;&gt;統括管理セクション&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
           <mxGeometry x="-270" y="-30" width="200" height="20" as="geometry" />
