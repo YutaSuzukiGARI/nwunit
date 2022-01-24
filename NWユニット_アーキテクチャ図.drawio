@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T07:09:31.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="OX_imQRU0bH_zQq7HjHy" version="16.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-24T07:15:27.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sfZnig5cQdwyPhT8W50R" version="16.2.4" type="github" pages="4">
   <diagram name="RevG_NewスマNWU静的構造_完全版" id="GGY5ZKee5J4tztuzEWEi">
-    <mxGraphModel dx="2858" dy="2320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2858" dy="2239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-0" />
         <mxCell id="WA64RrP8hwPyqQoOAJvi-1" parent="WA64RrP8hwPyqQoOAJvi-0" />
@@ -70,6 +70,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="350" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="K5xhSKI-1ucyIxjqn9iB-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WA64RrP8hwPyqQoOAJvi-1" source="WA64RrP8hwPyqQoOAJvi-18" target="WA64RrP8hwPyqQoOAJvi-97">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-18" value="UnitMgr&lt;br style=&quot;font-size: 19px&quot;&gt;ユニット管理&lt;br&gt;データ制御" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;strokeWidth=5;fontColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
           <mxGeometry x="327" y="170" width="140" height="60" as="geometry" />
@@ -355,6 +358,9 @@
         <mxCell id="WA64RrP8hwPyqQoOAJvi-92" value="EventLog&lt;br&gt;イベントログ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=19;strokeWidth=5;fontColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
           <mxGeometry x="590" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="K5xhSKI-1ucyIxjqn9iB-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#CCCCCC;" edge="1" parent="WA64RrP8hwPyqQoOAJvi-1" source="WA64RrP8hwPyqQoOAJvi-93" target="WA64RrP8hwPyqQoOAJvi-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-93" value="Initial&lt;br style=&quot;font-size: 19px;&quot;&gt;起動処理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;strokeWidth=5;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
           <mxGeometry x="-10" y="55" width="120" height="60" as="geometry" />
         </mxCell>
@@ -420,7 +426,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;fontColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
-          <mxGeometry x="520" y="-40" width="710" height="870" as="geometry" />
+          <mxGeometry x="840" y="-40" width="390" height="870" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;fontColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
           <mxGeometry x="-290" y="-40" width="810" height="1320" as="geometry" />
@@ -438,7 +444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NXR-ILM静的構造_整理" id="8LoRBOQz0qZMT3q2NBlz">
-    <mxGraphModel dx="2249" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gRF6oFBSEXNlY3w5-Y73-0" />
         <mxCell id="gRF6oFBSEXNlY3w5-Y73-1" parent="gRF6oFBSEXNlY3w5-Y73-0" />
@@ -469,7 +475,7 @@
         <mxCell id="gRF6oFBSEXNlY3w5-Y73-8" value="ILM Manager&lt;br&gt;IOLink データ制御" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;fontColor=default;" parent="gRF6oFBSEXNlY3w5-Y73-1" vertex="1">
           <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bkZewI23oMpolakCevRu-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="gRF6oFBSEXNlY3w5-Y73-1" source="gRF6oFBSEXNlY3w5-Y73-9" target="gRF6oFBSEXNlY3w5-Y73-10">
+        <mxCell id="bkZewI23oMpolakCevRu-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#B3B3B3;" edge="1" parent="gRF6oFBSEXNlY3w5-Y73-1" source="gRF6oFBSEXNlY3w5-Y73-9" target="gRF6oFBSEXNlY3w5-Y73-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gRF6oFBSEXNlY3w5-Y73-9" value="Initial&lt;br&gt;起動処理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;fontColor=default;" parent="gRF6oFBSEXNlY3w5-Y73-1" vertex="1">
@@ -511,7 +517,7 @@
             <mxPoint x="600" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gRF6oFBSEXNlY3w5-Y73-20" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;strokeColor=#B3B3B3;labelBackgroundColor=default;fontColor=default;" parent="gRF6oFBSEXNlY3w5-Y73-1" source="gRF6oFBSEXNlY3w5-Y73-9" target="gRF6oFBSEXNlY3w5-Y73-12" edge="1">
+        <mxCell id="gRF6oFBSEXNlY3w5-Y73-20" value="" style="endArrow=none;html=1;exitX=0.87;exitY=1.038;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;strokeColor=#B3B3B3;labelBackgroundColor=default;fontColor=default;exitPerimeter=0;" parent="gRF6oFBSEXNlY3w5-Y73-1" source="gRF6oFBSEXNlY3w5-Y73-9" target="gRF6oFBSEXNlY3w5-Y73-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="260" as="sourcePoint" />
             <mxPoint x="364" y="260" as="targetPoint" />
@@ -541,7 +547,7 @@
             <mxPoint x="926.5862068965516" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gRF6oFBSEXNlY3w5-Y73-28" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;" parent="gRF6oFBSEXNlY3w5-Y73-1" source="gRF6oFBSEXNlY3w5-Y73-10" target="gRF6oFBSEXNlY3w5-Y73-17" edge="1">
+        <mxCell id="gRF6oFBSEXNlY3w5-Y73-28" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="gRF6oFBSEXNlY3w5-Y73-1" source="gRF6oFBSEXNlY3w5-Y73-10" target="gRF6oFBSEXNlY3w5-Y73-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414" y="320" as="sourcePoint" />
             <mxPoint x="710" y="690" as="targetPoint" />
@@ -785,13 +791,13 @@
           <mxGeometry x="-45" y="790" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gRF6oFBSEXNlY3w5-Y73-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=#ffffff;dashed=1;strokeColor=default;fontColor=default;" parent="gRF6oFBSEXNlY3w5-Y73-1" vertex="1">
-          <mxGeometry x="564" y="75" width="216" height="95" as="geometry" />
+          <mxGeometry x="564" y="75" width="216" height="85" as="geometry" />
         </mxCell>
         <mxCell id="gRF6oFBSEXNlY3w5-Y73-58" value="・コマンド部分の仕組みは改造&lt;br&gt;・他基本的な仕組み(データの受け渡しなど)は流用" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffffff;strokeColor=#b85450;gradientColor=#ffffff;fontColor=default;" parent="gRF6oFBSEXNlY3w5-Y73-1" vertex="1">
           <mxGeometry x="760" y="-25" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Jt_0751dn-s4lt4O04Yp-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=#ffffff;dashed=1;strokeColor=default;fontColor=default;" parent="gRF6oFBSEXNlY3w5-Y73-1" vertex="1">
-          <mxGeometry x="389" y="69" width="131" height="65" as="geometry" />
+          <mxGeometry x="389" y="69" width="121" height="61" as="geometry" />
         </mxCell>
         <mxCell id="-G7r1MNDgbaDCH8Luhxe-0" value="Cortex R4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=default;" parent="gRF6oFBSEXNlY3w5-Y73-1" vertex="1">
           <mxGeometry x="1450" y="40" width="110" height="30" as="geometry" />
