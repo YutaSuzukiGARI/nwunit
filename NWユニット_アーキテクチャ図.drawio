@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T07:15:27.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sfZnig5cQdwyPhT8W50R" version="16.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-24T07:22:42.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ZpR447drF8CaRnpyjNUF" version="16.2.4" type="github" pages="4">
   <diagram name="RevG_NewスマNWU静的構造_完全版" id="GGY5ZKee5J4tztuzEWEi">
     <mxGraphModel dx="2858" dy="2239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -426,7 +426,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;fontColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
-          <mxGeometry x="840" y="-40" width="390" height="870" as="geometry" />
+          <mxGeometry x="520" y="-40" width="710" height="870" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=default;fontColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
           <mxGeometry x="-290" y="-40" width="810" height="1320" as="geometry" />
