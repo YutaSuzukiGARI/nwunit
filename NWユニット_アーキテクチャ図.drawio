@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T09:29:57.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="XB48f_W2_xfmw_RzFa1e" version="16.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-24T12:22:13.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ymF62Q5izv48BNPUOpti" version="16.6.3" type="github" pages="4">
   <diagram name="RevG_NewスマNWU静的構造_完全版" id="GGY5ZKee5J4tztuzEWEi">
-    <mxGraphModel dx="3955" dy="2725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2782" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-0" />
         <mxCell id="WA64RrP8hwPyqQoOAJvi-1" parent="WA64RrP8hwPyqQoOAJvi-0" />
@@ -50,8 +50,8 @@
         <mxCell id="TR7CPrV_6TkN9dDBGlcq-0" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 13px&quot;&gt;バックアップデータ&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=20;fontColor=default;endArrow=none;endFill=0;strokeColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" source="WA64RrP8hwPyqQoOAJvi-16" target="WA64RrP8hwPyqQoOAJvi-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WA64RrP8hwPyqQoOAJvi-16" value="アンプ&lt;br&gt;データ制御" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF0000;fontSize=21;strokeWidth=5;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
-          <mxGeometry x="-469" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="WA64RrP8hwPyqQoOAJvi-16" value="AmpDataControl&lt;br&gt;アンプ&lt;br&gt;データ制御" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF0000;fontSize=21;strokeWidth=5;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
+          <mxGeometry x="-490" y="200" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=19;strokeColor=default;labelBackgroundColor=default;fontColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" source="WA64RrP8hwPyqQoOAJvi-27" target="WA64RrP8hwPyqQoOAJvi-75" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -291,8 +291,8 @@
         <mxCell id="WA64RrP8hwPyqQoOAJvi-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontColor=#FF0000;strokeColor=#B3B3B3;" parent="WA64RrP8hwPyqQoOAJvi-1" source="WA64RrP8hwPyqQoOAJvi-75" target="WA64RrP8hwPyqQoOAJvi-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WA64RrP8hwPyqQoOAJvi-76" value="UART割り込み制御" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF0000;fontSize=21;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
-          <mxGeometry x="-606.5" y="581.5" width="200" height="63" as="geometry" />
+        <mxCell id="WA64RrP8hwPyqQoOAJvi-76" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;UARTInterruptControl&lt;/span&gt;&lt;/b&gt;&lt;br&gt;UART割り込み制御&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#FF0000;fontSize=21;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
+          <mxGeometry x="-620" y="581.5" width="230" height="63" as="geometry" />
         </mxCell>
         <mxCell id="WA64RrP8hwPyqQoOAJvi-78" value="HWCHK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=19;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
           <mxGeometry x="1245" y="81.5" width="90" height="60" as="geometry" />
@@ -429,7 +429,7 @@
         <mxCell id="cE08UZ1Xvqvv4ngUlUgD-2" value="IOControl&lt;br style=&quot;font-size: 19px&quot;&gt;入出力制御" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;fontColor=default;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
           <mxGeometry x="-55" y="579.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aGRZTf9AJtVWMCiCuNYh-2" value="TIM" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;fontSize=21;" vertex="1" parent="WA64RrP8hwPyqQoOAJvi-1">
+        <mxCell id="aGRZTf9AJtVWMCiCuNYh-2" value="TIM" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;fontSize=21;" parent="WA64RrP8hwPyqQoOAJvi-1" vertex="1">
           <mxGeometry x="1236" y="690" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
