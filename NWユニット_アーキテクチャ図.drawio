@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T06:11:30.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="2qHJfS61ZfZ043dUhFJz" version="17.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-16T06:11:58.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="vk2zpv9sNvTYGQb3e4dV" version="17.1.1" type="github" pages="4">
   <diagram name="RevG_NewスマNWU静的構造_完全版" id="GGY5ZKee5J4tztuzEWEi">
     <mxGraphModel dx="3955" dy="2589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1409,7 +1409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="RevC_動的構造" id="PpiwZRVq-2bUCYuhLH65">
-    <mxGraphModel dx="2188" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1053" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="auQ4mcYpajBGoe2JOhch-0" />
         <mxCell id="auQ4mcYpajBGoe2JOhch-1" parent="auQ4mcYpajBGoe2JOhch-0" />
@@ -2338,6 +2338,15 @@
         </mxCell>
         <mxCell id="Trgwp6Oh33l62C36tRTS-1" value="&amp;lt;&amp;lt;Cycle&amp;gt;&amp;gt;&lt;br&gt;2ms周期ハンドラ&lt;br&gt;内部時間" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;strokeWidth=5;" vertex="1" parent="auQ4mcYpajBGoe2JOhch-1">
           <mxGeometry x="210" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Trgwp6Oh33l62C36tRTS-4" value="LED表示状態" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=0;" vertex="1" parent="auQ4mcYpajBGoe2JOhch-1">
+          <mxGeometry x="554" y="1280" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Trgwp6Oh33l62C36tRTS-5" value="" style="endArrow=classic;html=1;fontColor=#FF3333;" edge="1" parent="auQ4mcYpajBGoe2JOhch-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.4999999999998" y="1275.0000000000005" as="sourcePoint" />
+            <mxPoint x="565" y="1274.4999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
