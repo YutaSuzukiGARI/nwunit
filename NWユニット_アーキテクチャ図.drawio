@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T02:52:56.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PZ56vGZYLWo6BC6pltEy" version="24.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-26T08:21:45.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="O7rNH7TTkyR9QKUXOTSZ" version="24.3.0" type="github" pages="4">
   <diagram name="RevG_NewスマNWU静的構造_完全版" id="GGY5ZKee5J4tztuzEWEi">
     <mxGraphModel dx="3172" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1440,7 +1440,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="RevC_動的構造" id="PpiwZRVq-2bUCYuhLH65">
-    <mxGraphModel dx="1687" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="auQ4mcYpajBGoe2JOhch-0" />
         <mxCell id="auQ4mcYpajBGoe2JOhch-1" parent="auQ4mcYpajBGoe2JOhch-0" />
@@ -2228,7 +2228,7 @@
             <mxPoint x="1905.5" y="939.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WjLrdkKy4gAfx3s70ggJ-32" value="&amp;lt;&amp;lt;Interrupt&amp;gt;&amp;gt;&lt;br&gt;50ms周期&lt;br&gt;タイマー割り込み&lt;br&gt;EIP通信状態LED制御" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=5;fontColor=#333333;" parent="auQ4mcYpajBGoe2JOhch-1" vertex="1">
+        <mxCell id="WjLrdkKy4gAfx3s70ggJ-32" value="&amp;lt;&amp;lt;Interrupt&amp;gt;&amp;gt;&lt;br&gt;50ms周期&lt;br&gt;タイマー割り込み&lt;br&gt;EIP通信状態LED制御" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0000ff;strokeWidth=5;fontColor=#333333;" parent="auQ4mcYpajBGoe2JOhch-1" vertex="1">
           <mxGeometry x="1620" y="859.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WjLrdkKy4gAfx3s70ggJ-34" value="" style="endArrow=classic;html=1;fontColor=#FF3333;" parent="auQ4mcYpajBGoe2JOhch-1" edge="1">
@@ -2308,7 +2308,7 @@
         <mxCell id="Cfz656UZhXBjAoxk9snn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="auQ4mcYpajBGoe2JOhch-1" source="Cfz656UZhXBjAoxk9snn-22" target="auQ4mcYpajBGoe2JOhch-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cfz656UZhXBjAoxk9snn-22" value="&amp;lt;&amp;lt;Interrupt&amp;gt;&amp;gt;&lt;br&gt;250ms周期&lt;br&gt;タイマー割り込み&lt;br&gt;EIP通信エラー監視" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=5;fontColor=#333333;" parent="auQ4mcYpajBGoe2JOhch-1" vertex="1">
+        <mxCell id="Cfz656UZhXBjAoxk9snn-22" value="&amp;lt;&amp;lt;Interrupt&amp;gt;&amp;gt;&lt;br&gt;250ms周期&lt;br&gt;タイマー割り込み&lt;br&gt;EIP通信エラー監視" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0000ff;strokeWidth=5;fontColor=#333333;" parent="auQ4mcYpajBGoe2JOhch-1" vertex="1">
           <mxGeometry x="1620" y="775" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cfz656UZhXBjAoxk9snn-24" value="Message&lt;br&gt;タイマ完了通知" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="auQ4mcYpajBGoe2JOhch-1" vertex="1">
